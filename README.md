@@ -28,8 +28,8 @@ class MustafaHani():
     self.learning = ["Machine Learning", "Computer Vision", "Deep Learning"]
     self.interests = ["Running", "Drums", "Esports", "Music"]
     self.funfact = "I used to be a pro CS:GO player"
-
-def __skills__(self):
+    
+  def __skills__(self):
     self.languages = ["C++", "C#", "Python", "Java"]
     self.libraries = ["TensorFlow", "sklearn", "Matplotlib", "Seaborn"]
     self.frameworks = ["Unity"]
