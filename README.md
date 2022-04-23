@@ -1,8 +1,7 @@
-<img src="header.png" style="float: left;  margin: 0 10px 10px 0;" /> 
-
+![Header](header.png)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=catb1t&count_private=true&show_icons=false&theme=ayu-mirage&hide_title=true)
 
-<p style="float: right;">
+<p>
 <h2>Hi There! 👋 , I'm Mostafa Hani</h2>
 Currently studying Computer Sciecne & Machine Learning at <a href="Cairo University">Cairo University</a>. 
 Interested in eSports & music and hoping to make it better for everyone using machine learning.
@@ -16,7 +15,7 @@ Interested in eSports & music and hoping to make it better for everyone using ma
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white
 )](https://twitter.com/catb1t)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-035a7d?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/mostafahani)
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white&link=https://www.kaggle.com/mostafahani)](https://www.kaggle.com/mostafahani)
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/bingotw)
 </div>
 
 ```python
