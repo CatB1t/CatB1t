@@ -1,11 +1,12 @@
-<p style="text-align: justify; text-indent: 2em">
 <img src="header.png" style="float: left;  margin: 0 10px 10px 0;" /> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=catb1t&count_private=true&show_icons=false&theme=ayu-mirage&hide_title=true)
+
+<p style="float: right;">
 <h2>Hi There! 👋 , I'm Mostafa Hani</h2>
 Currently studying Computer Sciecne & Machine Learning at <a href="Cairo University">Cairo University</a>. 
 Interested in eSports & music and hoping to make it better for everyone using machine learning.
 </p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=catb1t&count_private=true&show_icons=false&theme=ayu-mirage&hide_title=true)
 
 <br />
 <div align="center">
