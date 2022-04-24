@@ -41,7 +41,6 @@ class MustafaHani():
 ```
 
 ## 👨🏻‍💻 Projects
----
 
 ### 💎 Machine Learning 
 - [MNIST Digit Recognizer](https://github.com/CatB1t/MNIST_Digits_model)
