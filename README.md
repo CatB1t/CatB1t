@@ -55,6 +55,7 @@ class MustafaHani():
 - [Fill the wall!](https://apps.apple.com/us/app/fill-the-wall/id1478654445)
 - [Smash it! 3D](https://apps.apple.com/us/app/smash-it-3d/id1481307963)
 ### 🎓 University projects
+- [Fuzzy Logic](https://github.com/CatB1t/fuzzy_logic)
 - [Train Reservation](https://github.com/CatB1t/WebTrainReservation) - Web application
 - [GoFo](https://github.com/CatB1t/GoFo) - Playground reservation app
 - [CPU Process Scheduler](https://github.com/Al-ameen007/CPU_Scheduler) 
