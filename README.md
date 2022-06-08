@@ -3,8 +3,9 @@
 ![Header](header.png)
 <p>
 <h2>Hi There! 👋 , I'm Mostafa Hani</h2>
-Currently studying Computer Sciecne & Machine Learning at <a href="Cairo University">Cairo University</a>. 
-Interested in eSports & music and hoping to make it better for everyone using machine learning.
+Studying Computer Sciecne & Artificial Intelligence at <a href="Cairo University">Cairo University</a>.  
+    
+Interested in Computer Vision, DL, eSports and music.
 </p>
 
 <br />
@@ -36,14 +37,16 @@ class MustafaHani():
     
   def __skills__(self):
     self.languages = ["C++", "C#", "Python", "Java"]
-    self.libraries = ["TensorFlow", "sklearn", "Matplotlib", "Seaborn"]
+    self.libraries = ["TensorFlow", "OpenCV", "sklearn", "Matplotlib", "Seaborn"]
     self.frameworks = ["Unity"]
 ```
 
 ## 👨🏻‍💻 Projects
 
-### 💎 Machine Learning 
+### 👁️ Computer Vision 
+- [YoloV5 Object Detection](https://github.com/CatB1t/ObjectDetectionYOLO) - Object detection for CS:GO
 - [MNIST Digit Recognizer](https://github.com/CatB1t/MNIST_Digits_model)
+### 💎 Machine Learning 
 - [Finding Donors for CharityML](https://github.com/CatB1t/EgyFWD-ML-Project) - Case study
 - [Neural Network](https://github.com/CatB1t/NeuralNetwork) - Implementation from scratch
 ### 🕹️ Games
